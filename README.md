@@ -1,8 +1,10 @@
 # MLDM Project 2024
 
+Progetto inerente al corso di MLDM
+
 # Students
 
-Kevin Liu 
+Kevin Liu &
 Davide Mottini
 
 ## Project Structure
